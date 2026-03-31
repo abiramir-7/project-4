@@ -1,4 +1,4 @@
-streamlit
-pandas
-scikit-learn
-scipy
+* `Pandas` (Data Manipulation)
+* `Scikit-Learn` (One-Hot Encoding & Cosine Similarity)
+* `Scipy` (Sparse Matrix Handling)
+* `Pickle` (Model Serialization)
