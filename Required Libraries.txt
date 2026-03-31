@@ -1,4 +1,4 @@
-* `Pandas` (Data Manipulation)
-* `Scikit-Learn` (One-Hot Encoding & Cosine Similarity)
-* `Scipy` (Sparse Matrix Handling)
-* `Pickle` (Model Serialization)
+Pandas - Data Manipulation
+Scikit_Learn - One-Hot Encoding & Cosine Similarity
+Scipy - Sparse Matrix Handling
+Pickle - Model Serialization
