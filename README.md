@@ -175,17 +175,6 @@ The application filters matching restaurants and recommends the most relevant op
 
 ---
 
-## 🎯 Future Improvements
-
-- Restaurant Images
-- Search by Restaurant Name
-- Location-Based Recommendations
-- More Recommendation Algorithms (K-Means, Collaborative Filtering)
-- Online Dataset Integration
-- Real-Time Swiggy API Integration
-
----
-
 ## 👨‍💻 Author
 
 **Swiggy Restaurant Recommendation System**
