@@ -5,7 +5,7 @@
 This project is a **Content-Based Recommendation System** designed to help users discover the best dining options from Swiggy's extensive restaurant data. By analyzing features like **Cuisine**, **City**, **User Ratings**, and **Cost**, the system provides tailored suggestions that match a user's specific cravings and budget.
 
 ## 🚀 Key Features
-* **Smart Filtering:** Filter restaurants by individual cuisines and set a maximum budget using an interactive slider.
+* **Smart Filtering:** Filter restaurants by City, Cuisine, Maximum Budget, and Minimum Rating using an interactive Streamlit interface.
 * **High-Resolution Recommendations:** Uses **Cosine Similarity** to suggest "Hidden Gems" that are mathematically similar to your favorite top-rated spots.
 * **Swiggy-Themed UI:** A fully customized Streamlit dashboard featuring Swiggy’s signature orange palette, hover-effect cards, and a responsive layout.
 * **Data Optimization:** Processed over 50,000+ rows of raw data, optimized to the top 10,000 restaurants for high-speed similarity calculations.
